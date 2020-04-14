@@ -1,0 +1,2 @@
+flask
+git+https://github.com/leancloud/python-sdk@master#egg=leancloud
